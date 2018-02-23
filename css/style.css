@@ -425,10 +425,16 @@ box-shadow: 0 3px 10px 0 rgba(0,0,0,0.2);
     }
     .panel-heading {
         padding: 10px 15px;
-  
-        border-top-right-radius: 3px;
-        border-top-left-radius: 3px;
+        border-top-right-radius: 30px;
+        border-top-left-radius: 30px;
+        border-bottom-right-radius: 30px;
+        border-bottom-left-radius: 30px;
         background: #fff;
+    }
+    .col-lg-9.col-xs-12.col-sm-9.col-md-9.col-md-offset-3.col-lg-offset-3{
+        text-align:right;
+        width:100%!important;
+        margin:0px!important;
     }
     .wrapper {
         display: inline-block;
