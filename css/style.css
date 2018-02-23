@@ -425,7 +425,7 @@ box-shadow: 0 3px 10px 0 rgba(0,0,0,0.2);
     }
     .panel-heading {
         padding: 10px 15px;
-        border-bottom: 1px solid #dad7d7!important;
+  
         border-top-right-radius: 3px;
         border-top-left-radius: 3px;
         background: #fff;
